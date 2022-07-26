@@ -1,0 +1,1 @@
+This assignment is to create a weather page to see the outlook for multiple cities.
